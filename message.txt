@@ -1,0 +1,58 @@
+
+// @name         Premium Bypass Key System But No Update
+// @homepageURL  https://discord.gg/C6VaVKsapN
+// @version      1.4
+// @description  This UserScript Can Bypass Arceus X NEO, Fluxus, Hydrogen, Delta, Trigon Evo, Vegax, Codex, Linkvertise, Pandadevelopment, Etc, Lootlabs, Rekonise.com, Boostink, SocialWolvez, Mboost,...
+// @author       Sukaichan
+// @match        *://flux.li/*
+// @match        https://linkvertise.com/376138/arceus-x-neo-key-system-1?o=sharing*
+// @match        https://linkvertise.com/*/*
+// @match        https://socialwolvez.com/*
+// @match        https://rekonise.com/*
+// @match        https://mboost.me/a/*
+// @match        https://loot-link.com/s?*
+// @match        https://loot-links.com/s?*
+// @match        https://lootlink.org/s?*
+// @match        https://lootlinks.co/s?*
+// @match        https://gateway.platoboost.com/a/2569?id=*
+// @match        https://gateway.platoboost.com/a/8?id=*
+// @match        *://*.keyrblx.com/*
+// @match        https://lootdest.info/s?*
+// @match        https://lootdest.org/s?*
+// @match        https://mobile.codex.lol/*
+// @match        https://pandadevelopment.net/getkey?*
+// @match        https://lootdest.com/s?*
+// @match        https://links-loot.com/s?*
+// @match        https://linksloot.net/s?*
+// @match        https://spdmteam.com/key-system*
+// @match        https://*/recaptcha/*
+// @match        https://*.hcaptcha.com/*hcaptcha-challenge*
+// @match        https://*.hcaptcha.com/*checkbox*
+// @match        https://*.hcaptcha.com/*captcha*
+// @match        https://bot-hosting.net/panel/earn*
+// @match        *://trigonevo.com/getkey/?hwid=*
+// @match        https://work.ink/*/*
+// @match        https://gateway.platoboost.com/a/39097?id=*
+// @match        https://gateway.platoboost.com/a/*
+// @require     https://greasyfork.org/scripts/464929-module-jquery-xiaoying/code/module_jquery_XiaoYing.js
+// @require     https://greasyfork.org/scripts/464780-global-module/code/global_module.js
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js
+// @require     https://pastefy.app/nKTdVHgp/raw
+// @require     https://pastefy.app/EB0zekjw/raw
+// @require     https://pastefy.app/Qq3IOssP/raw
+// @require     https://raw.githubusercontent.com/dam737/FluxusBypasser/main/README.md
+
+// @run-at       document-end
+// @grant        GM_xmlhttpRequest
+// @grant        GM_notification
+// @grant        GM_openInTab
+
+// @license      Sukaichan
+// @connect      linkvertise.com
+// @connect      short-jambo.com
+// @connect      api.codex.lol
+// @connect      cdn.jsdelivr.net
+// @connect      spdmteam.com
+// @connect      api-gateway.platoboost.com
+// @connect      api.keyrblx.com
+// @connect      pandadevelopment.net
